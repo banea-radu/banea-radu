@@ -26,6 +26,7 @@ Check out my stats:
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
+### 📫 Reach me at: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/radu-banea)
 <!--
 **banea-radu/banea-radu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
