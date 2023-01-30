@@ -1,7 +1,21 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile!&nbsp;
+Welcome to my GitHub profile!
+
+<br>
+
+About me: 
+💻(Aspiring) front-end software developer | 👨‍💻 Angular | Passionate about solving problems using technology | Interested also in 💵 Financial Education and 🏓 Table Tennis
+
+<br>
+
+Check out my stats:
+
+<br>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=banea-radu&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
+
+<br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
