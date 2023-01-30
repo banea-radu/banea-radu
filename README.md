@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 <br>
 
-About me: 
+About me: <br>
 💻(Aspiring) front-end software developer | 👨‍💻 Angular | Passionate about solving problems using technology | Interested also in 💵 Financial Education and 🏓 Table Tennis
 
 <br>
