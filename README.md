@@ -11,11 +11,11 @@ About me:
 
 Check out my stats:
 
-<br>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=banea-radu&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
 
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banea-radu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -25,8 +25,6 @@ Check out my stats:
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banea-radu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **banea-radu/banea-radu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
