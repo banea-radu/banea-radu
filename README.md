@@ -25,8 +25,8 @@ Check out my stats:
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://promto.com/wp-content/uploads/2019/08/icon-Excel-1.png" title="Firebase" alt="Microsoft Excel VBA" width="40" height="40"/>&nbsp;
-  <img src="http://store-images.s-microsoft.com/image/apps.24553.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.6e5c0231-3bed-4cdc-b204-43b2d69ec502" title="Firebase" alt="Microsoft PowerApps" width="40" height="40"/>&nbsp;
+  <img src="https://promto.com/wp-content/uploads/2019/08/icon-Excel-1.png" title="Microsoft Excel VBA" alt="Microsoft Excel VBA" width="40" height="40"/>&nbsp;
+  <img src="http://store-images.s-microsoft.com/image/apps.24553.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.6e5c0231-3bed-4cdc-b204-43b2d69ec502" title="Microsoft PowerApps" alt="Microsoft PowerApps" width="40" height="40"/>&nbsp;
 </div>
 
 ### 📫 Reach me at: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/radu-banea)
